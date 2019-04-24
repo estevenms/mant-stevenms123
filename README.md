@@ -31,3 +31,11 @@ Cualquier archivo .py que se quiera correr, debe ejecutarse desde el IDLE de Pyt
 Este proyecto cuenta con una función llamada generatePassword() dentro del archivo stevenms123.py, esta genera una 
 contraseña aleatoria de entre 4 y 16 caracteres incluye minúsculas, mayúsculas, números y caracteres especiales.
 Se importar el módulo string y se usa string.string.ascii_letters, string.digits y string.punctuation.
+
+1. **string.string.ascii_letters**: Es una concatenación de constantes de cadena.
+Resultado obtenido: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+2. **string.digits**: Es una cadena utilizada para generar los numeros del 0 al 9.
+Resultado obtenido: 0123456789
+
+3. **string.punctuation**: Esta opción contiene todos los caracteres de puntuación comunes.
